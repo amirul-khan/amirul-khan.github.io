@@ -1,0 +1,17 @@
+[
+  {
+    "title": "GlobalProtect VPN + Duo MFA",
+    "description": "Secure remote access for 3,000+ users with multi-factor authentication.",
+    "tech": ["Palo Alto", "Duo", "Radius"]
+  },
+  {
+    "title": "AWS + Palo Alto Integration",
+    "description": "Automated firewall and BGP failover setup in a cloud environment.",
+    "tech": ["AWS", "Terraform", "Palo Alto"]
+  },
+  {
+    "title": "Telco DC Migration",
+    "description": "Secured migration of telco datacenter using FortiGate and Cisco ACI.",
+    "tech": ["FortiGate", "Cisco ACI", "Ansible"]
+  }
+]
